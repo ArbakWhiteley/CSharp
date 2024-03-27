@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\arbog\\OneDrive\\Рабочий стол\\Тестер\\Csharp\\Seminars\\SEMINAR2\\SEMINAR2.csproj",
       "projectName": "SEMINAR2",
       "projectPath": "C:\\Users\\arbog\\OneDrive\\Рабочий стол\\Тестер\\Csharp\\Seminars\\SEMINAR2\\SEMINAR2.csproj",
       "packagesPath": "C:\\Users\\arbog\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\arbog\\OneDrive\\Рабочий стол\\Тестер\\Csharp\\Seminars\\SEMINAR2\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\arbog\\OneDrive\\Рабочий стол\\Тестировщик\\C#\\Seminars\\SEMINAR2\\SEMINAR2.csproj",
+      "projectName": "SEMINAR2",
+      "projectPath": "C:\\Users\\arbog\\OneDrive\\Рабочий стол\\Тестировщик\\C#\\Seminars\\SEMINAR2\\SEMINAR2.csproj",
+      "packagesPath": "C:\\Users\\arbog\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arbog\\OneDrive\\Рабочий стол\\Тестировщик\\C#\\Seminars\\SEMINAR2\\obj\\",
+>>>>>>> a0d3a6b60792c864d700c9db3c74b9585857caa6
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arbog\\AppData\\Roaming\\NuGet\\NuGet.Config"

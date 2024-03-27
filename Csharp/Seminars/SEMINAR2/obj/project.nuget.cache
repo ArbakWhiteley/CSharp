@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "HbDq53OCH7H/TDwsf+Q4j2tNn6aK1lYbzzWTGBCv7UJhu0+Cx3Q0KKhpezys8qaLIux1JWmZFfjzEzysd/uRHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\arbog\\OneDrive\\Рабочий стол\\Тестер\\Csharp\\Seminars\\SEMINAR2\\SEMINAR2.csproj",
+=======
+  "dgSpecHash": "TLbIvL4w6ZgWmAxBIzCRc+hvQ8S12C0aU00GeIylRt0/n84yf+ZhKECpH5dnS2YKABeLpXz18Vj0ELwVDkGwsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arbog\\OneDrive\\Рабочий стол\\Тестировщик\\C#\\Seminars\\SEMINAR2\\SEMINAR2.csproj",
+>>>>>>> a0d3a6b60792c864d700c9db3c74b9585857caa6
   "expectedPackageFiles": [],
   "logs": []
 }
